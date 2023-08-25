@@ -1,0 +1,1 @@
+web : gunicorn removebg.wsgi --log-file -
